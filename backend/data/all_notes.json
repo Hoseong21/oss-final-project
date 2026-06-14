@@ -1,0 +1,7514 @@
+[
+  {
+    "note": "absinthe",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "acacia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "acai berry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "acerola",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "acerola blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "acetyl furan",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "agarwood (oud)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "agave",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "agave nectar",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "aglaia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "akigalawood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "aldehydes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "alder",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "algae",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "allspice",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "almond",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "almond blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "almond tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "aloe vera",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "aluminum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "alumroot",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "alyssum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amaranth",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amaretto",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amarillys",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amber",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amber xtreme",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambergris",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambertonic (iff)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amberwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambrarome",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambretone",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambrette (musk mallow)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambrettolide",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambrocenide (symrise)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ambroxan",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ammophila (beach grass)",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "amyl salicylate",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "amyris",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "anemone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "angel's trumpet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "angelica",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "animal notes",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "anise",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "apple",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "apple blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "apple juice",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "apple mint",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "apple pulp",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "apple tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "apricot",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "apricot blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "aquozone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "araucaria",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "arbutus (madrona, bearberry tree)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "arctic bramble",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "argan",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "argan tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "arnica",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "artemisia",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "arum lily",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "asafoetida",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ash",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ashoka flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "asparagus",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "aspen",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "asphalt",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "aspic",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "avocado",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "azolla (water fern)",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "bacon",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "baileys irish cream",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "balsamic vinegar",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bamboo",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "banana",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "banana flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "banana leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "baobab",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "barberry",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bark",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "barley",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "basil",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "bay essence",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "bay leaf",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bbq",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bearberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "beech",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "beerale",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "beeswax",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "beetroot",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "belambra tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "belladona",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bellflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bellini",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "benzoin",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bergamot",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "bergamot blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "birch",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "birch tar",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "biscuit",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "bitter orange",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "black currant",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "black currant blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "black currant leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "black hemlock or tsuga",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "black locust",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "black spruce",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blackberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "blackberry blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blackberry leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "blackthorn",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "blackwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blood",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blood orange",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "blue lilies",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blue margarita",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blue poppy",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "blueberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "boisiris",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "borage",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "borneol",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "boronia",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bougainvillea",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bourbon whiskey",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "boysenberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "bran",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "brazil nut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "brazilian rosewood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bread",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "bread flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "breu-branco",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "brick",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "brioche",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "bromelia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "brown scotch tape",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "brown sugar",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "bubble gum",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "buchu or agathosma",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "buddha wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "buddleia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bulrush",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "burdock",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "burnt match",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "bushman candle",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "butomus umbellatus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "butter",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "buttercup",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "butterscotch",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "buxus",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cabreuva",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cacao pod",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cactus",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "cade oil",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "caipirinha",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "calamansi",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "calamus",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "calone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "calycanthus",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "calypsone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cambodian oud",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "camellia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "campari",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "camphor",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "canadian balsam",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "candied fruits",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "candied ginger",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "candied orange",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "candies",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "canele",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cannabis",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "cannonball flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "caoutchouc",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cappuccino",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "carambola (star fruit)",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "carambola blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "caramel",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "caraway",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cardamom",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "carissa",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "carnation",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "carnation leaves",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "carob tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "carrot",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "carrot seeds",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cascalone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cashew",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cashmeran",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cashmir wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cassia",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cassowary fruit",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "castoreum",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "caviar",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cedar",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "celery",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "celery seeds",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "celosia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "centella asiatica",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "cepes",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cetalox",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chalood bark",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chamomile",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "champaca",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "champagne",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chayote",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cheese",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cherimoya",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cherry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cherry blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chestnut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "chimonanthus or wintersweet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "china rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chinotto",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chinotto",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "chinotto blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chive",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "chocolate flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "choya loban",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "choya nakh",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "choya ral",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "christmas tree or flame tree",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chrysanthemum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "chutney",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cilantro",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "cinnamon",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cinnamon leaf",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "citron",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "citruses",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "civet",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "clary sage",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "clay",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "clearwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "clematis",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "clementine",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "cloudberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "clove leaf",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "clover",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cloves",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "co2 extracts",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coal",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coal tar",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cobblestone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coca",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "coca-cola",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cocobolo",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coconut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "coconut pie",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "coffee",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coffee blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coffee tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cognac",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cognac",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "concrete",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cookie",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "copahu balm",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "copaiba balm",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "copal",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coral reef",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coranol",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coriander",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cork",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cork",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "corn silk",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cornflower, sultan seeds",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cosmone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cosmopolitan cocktail",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cosmos flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "costus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cotton candy",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cotton flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cottonwood (poplar)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "coumarin",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cranberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cream",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cream soda",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "creme brulee",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "creosote bush",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "crinum lily",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "crithmum",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "croissant",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cubeb or tailed pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cucumber",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cumin",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cupcake",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cupuacu, cupuassu, copoasu",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "curacao",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "curcuma (turmeric)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "currant leaf and bud",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "curry tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "custard",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "cyclamen",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cyperus scariosus",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "cypress",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "cypriol oil or nagarmotha",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dahlia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "daim",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "daiquiri",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "daisy",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dandelion",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "daphne",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dark chocolate",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "dates",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "datura",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "davana",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "deadnettle",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "delonix",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "desert rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dew drop",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dewberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "dianthus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dill",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dodecanal",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dove tree",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dragon blood resin",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dried apple crisp",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "dried apricot",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "dried fallen leaves",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "dried fruits",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "dried rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "driftwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dry wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "dulce de leche",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "dyer's greenweed",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "earl grey tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "earth tincture",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "earthy notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "eau de vie",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ebony tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "edelweiss",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "eglantine rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "elderflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "elemi",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ember",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "encian",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "english marigold",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ethyl maltol",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "eucalyptus",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "eugenol",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fabric",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fennel",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fenugreek",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fern",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "field scabious",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fig",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "fig leaf",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "fig tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "finger lime",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "fir",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fire",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fish",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "flamingo flower (anthurium)",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "flax",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "flint",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "floral notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "forest fruits",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "forget me not",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "fragonia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "frangipani",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "freesia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "french pastries",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "frosted berries",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "frosting [glace]",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "fruity notes",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "fuchsia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "galanga",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "galaxolide",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "galbanum",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "gardenia",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gasoline",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "genet",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "genmaicha",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "geosmin",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "geranium",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gerbera",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gianduia",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "gin",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ginger",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gingerbread",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "ginkgo",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "ginseng",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "gladiolus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "goat hair",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "goji berries",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "goldenrod",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gooseberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "gorse",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "grape leaves",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "grape seed",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "grapefruit",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "grapefruit blossom",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "grapes",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "graphite",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "grass",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "grass tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "green nard",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "green notes",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "green pepper",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "green sap",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "green tea flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "greengage",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "grenadine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gromwell",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "ground cherry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "guaiac wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "guao or maiden plum",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "guarana",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "guava",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "guava blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gunpowder",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "gurjun balsam",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "halva",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "hassaku",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "hatkora lemon",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "hawthorn",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hay",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "hazel blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hazelnut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "hazelnut cocoa spread",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "head space waterfall",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "heather",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hedione",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "heliotrope",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hellabore flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hemlock",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "henna",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "hi-fi",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hibiscus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hina",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hinoki wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ho wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hoary stock",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "holly flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hollyhock",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "honey",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "honeybush or cyclopia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "honeycomb",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "honeydew blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "honeysuckle",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hops",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "horchata",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "horseweed",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "hortensia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hot iron",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hoya carnosa, wax plant",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hyacinth",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hyraceum",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "hyssop",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ice",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ice cream",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "icing pink",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "immortelle",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "impatiens",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "incense",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "incienso",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "indian oud",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "indian spices",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "indian woods",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "indole",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "industrial glue",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ink",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "instant film accord",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "iris",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ishpink, ocotea quixos",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "iso e super",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "isobutyl quinoline",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ivy",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "jabuticaba",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "jacaranda",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jackfruit",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "jade flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "japanese loquat",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "japanese pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jasmine",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jasmine orchid",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jasmine tea",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jatamansi or spikenard",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "javanol",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jeans",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "jobs tears (yi yi ren)",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "jujube blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "juniper",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "juniper berries",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "kadam",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "kaffir lime",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "kanuka",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "karo-karounde",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "katrafay",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "katsura leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "kephalis",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "khella",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "kir royal",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "kiwi",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "kiwi blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "kowhai",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "kudzu",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "kulfi",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "kumbaru",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "kumquat",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "labdanum",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "laburnum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lady of the night flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lady slipper orchid",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lamduan flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "laminaria",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "lamprocapnos",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lantana",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lantana leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "laotian oud",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "larch",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "larkspur",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "laurel blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lava",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lavender",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "leather",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "leatherwood",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lemon",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lemon balm",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lemon blossom",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lemon tree",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lemon verbena",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lemon zest",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lemonade",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lemongrass",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "liatris",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lichen",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "licorice",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lilac",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lily",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lily of the valley leaves",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "lily-of-the-valley",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lime",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "lime (linden) blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "limetta",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "limnophila aromatica",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "limoncello",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "linaloe berry",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "linen",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lingonberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "lip gloss",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lipstick",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "liquor",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "litchi",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "litsea cubeba",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "longan berries",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "lorenox",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lotus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "loukhoum",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "lovage root",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "lupin",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "lydia broom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "macadamia",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "macarons",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "mace",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "madeira",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "magnolan",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "magnolia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mahogany",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mahonia",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mahonial",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mai tai cocktail",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "malt",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "malva",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mandarin orange",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "mandarin orange blossom",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mandora",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "mango",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "mango blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mangosteen",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "maninka",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "manuka",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "maple",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "maple syrup",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "maraschino cherry",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "marian plum",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "marigold",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mariposa lily",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "marjoram",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "marmalade",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "marron glace",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "marshmallow",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "martini",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "marzipan",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "masala chai",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "massoia",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mastic or lentisque",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "matcha tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mate",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mayflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "meadowsweet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "meat",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "melati",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "melilot or sweet clover",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "melilotus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "melon",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "meringues",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "mesquite wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "metallic notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "methyl pamplemousse",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "mignonette",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "milk",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "milk mousse",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "mimosa",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mimusops elengi",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mineral notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mint",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mirabelle",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "mirabilis",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mistletoe",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "mitti attar",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mock orange",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "moepel accord",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mojito",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "molasses",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "molasses",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "monarda",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "monoi oil",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mopane",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "morning glory flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "motor oil",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mountain air",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mugane",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "muhuhu",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mulberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "mushroom",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "musk",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "mustard seed",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "myrica",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "myrrh",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "myrtle",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nag champa",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "narcissus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nashi pear",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "nasturcia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "naturalcalm",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nectarine",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "nectarine blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "neem",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "neoprene",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nerium oleander",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "neroli",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "nettle",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "nigella",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "night blooming cereus",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "night blooming jasmine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nootka",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "nougat",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "nutmeg",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "oak",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "oak leaves",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "oakmoss",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "oat",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "oily notes",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "olibanum (frankincense)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "olive",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "olive flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "olive leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "olive tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "oolong tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "opium",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "opoponax",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orange",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "orange blossom",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orange cassia tree",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orchard blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orchid",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orchid cactus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orchid leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "oregano",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "oriental notes",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "orris root",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "osmanthus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "oysters",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ozonic notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "palisander rosewood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "palm leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "palmarosa",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "palo santo",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pandanus",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "panna cotta",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "pansy",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "papaya",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "papaya blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "paper",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "paperbark",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "papyrus",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "para-cresyl phenyl acetate",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "paradisone",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "paramela",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "parsley",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "passion flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "passionfruit",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pataqueira",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "patchouli",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pea",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "peach",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "peach blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "peach leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "peanut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pear",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pear blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pear ice cream",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "pear leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "pear tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "peat",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pebbles",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pecan",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pelargonium",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "peony",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "peppertree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pepperwood or hercules club",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "periwinkle",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "persimmon",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "peru balsam",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "petalia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "petitgrain",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "petunia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "phlox",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pimento",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pimento leaf",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pimento seeds",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pina colada",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pine tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pineapple",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pineapple blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pink pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pinot noir grapes",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pistachio",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pitahaya",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pitanga",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pittosporum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "plastic",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "plum",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "plum blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "plum tree",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "poinsettia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pollen",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "polygonum",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "pomarose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pomegranate",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "pomegranate blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pomelo",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "popcorn",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "poplar (populus) buds",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "poppy",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "port wine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "portulaca or pigweed",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "powdery notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "praline",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "primrose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "princess tree (paulownia)",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "priprioca",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "privet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "profiterole",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "prosecco",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "prunella",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pua keni keni (pua-lulu)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "pumpkin",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "punch",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "quince",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "rain notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rainbow sorbet",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "raki",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rambutan",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "rangoon creeper",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "raspberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "raspberry blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ravenala",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "ravensara",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "red algae",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "red apple",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "red berries",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "red currant",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "red fruits",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "red willow",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "red wine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "reed",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "reseda",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "resins",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rhododendron",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rhubarb",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "rice",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rice pudding",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "rooibos red tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rosa rubiginosa",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rose hip",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rose jam",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "rose japanese (hamanasu)",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rose leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rose mallow",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rose thorn",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rosebay willowherb",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rosemary",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rubber",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rue",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rum",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "rumex",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "rye",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "safflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "saffron",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "safraleine",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sage",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "sainfoins",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sake",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "salt",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "saman",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sand",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sandalwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sangria",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "santolina",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sapodilla",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "satin",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "satinwood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "satureja",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "saw palmetto",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "sea buckthorn",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "sea shells",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sea water",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "seaweed",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "sequoia",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sesame",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "shiso",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "siam",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sichuan pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sideritis, mountain tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "silk",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "silk tree blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "silk vine or milk broom",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "skin",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "skunk cabbage",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "slate",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "smoke",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "snake plant",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "snow",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "snowberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "snowdrops",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sodium silicate",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "solar notes",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "solomon`s seal",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sorbet",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "sour cherry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "sour cherry blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "soursop",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "soybean",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "spanish broom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "spicy notes",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "spinach",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "spiraea",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "spray paint",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "spruce",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "spun sugar",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "squash",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "st. john's wort",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "star anise",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "star apple",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "starfish",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "stephanotis",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "strawberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "strawberry leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "strawberry syrup",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "strelitzia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "strobilanthes callosus",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "styrax",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "suede",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sugar",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "sumac",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sundew",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "sunflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "suntan lotion",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "surf wax",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sweet grass",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "sweet pea",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sycamore",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "sylkolide",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "syringa",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "syrup",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "taif rose",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "takamaka",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "talc",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tamarind",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tamarisk",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tangelo",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "tangerine",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "tangerine blossom",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tansy",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tarragon",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tayberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tea tree oil",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "teak wood",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tennis ball",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tequila",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "thailand oud",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "thistle",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "thuja",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "thyme",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "ti leaf (cordilyne)",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tiare flower",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tiramisu",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "tobacco",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tobacco blossom",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "toffee",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "tokaji wine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tolu balsam",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tomato",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "tomato leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "tonic water",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tonka bean",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "toscanol",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "trillium",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tropical fruits",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "truffle",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tuberose",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tulip",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tulle accord",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "tulsi",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "turnera diffusa (damiana)",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "umbu-caja | tapereba",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "valerian",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "vanilla",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "varnish accord",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "velvet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "vermouth",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "vetiver",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "vine",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "vinyl",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "violet",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "violet leaf",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "violet woodsorrel",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "vodka",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wallflower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "walnut",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "wan sao lhong",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wasabi",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "water",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "water fruit",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "water hyacinth",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "water lily",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "water pepper",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "watermelon",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "west indian bay",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wet plaster",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wheat",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "whiskey",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white chocolate",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "white currant",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "white flowers",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white ginger lily",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white oud",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white tobacco",
+    "season": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white willow",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "white wine",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wild strawberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "wildflowers",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wine lees",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "winterberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "wisteria",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wolfberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "woody notes",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "woody zion",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wool",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "wormwood",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "wrightia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "yarrow",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "yellow cherry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "ylang-ylang",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "yogurt",
+    "season": [
+      3
+    ]
+  },
+  {
+    "note": "yohimbe",
+    "season": [
+      2,
+      3
+    ]
+  },
+  {
+    "note": "yumberry",
+    "season": [
+      0,
+      2
+    ]
+  },
+  {
+    "note": "yunnan red tea",
+    "season": [
+      1,
+      2
+    ]
+  },
+  {
+    "note": "yuzu",
+    "season": [
+      0,
+      1
+    ]
+  },
+  {
+    "note": "yuzu flower",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "note": "zinnia",
+    "season": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]
