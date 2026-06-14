@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+
+# Data files
+backend/data/df_notes.pkl
+backend/data/note_columns.pkl
+backend/data/users.json
+backend/data/history.json
