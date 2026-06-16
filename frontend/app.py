@@ -391,8 +391,8 @@ def render_main():
                             """, unsafe_allow_html=True)
 
                         with col_info:
-                            st.markdown(f"<h3 style='font-family: IBM Plex Sans KR, sans-serif; font-weight: 700;'>{clean_name(top1['name'])} ({clean_name(top1['brand'])})</h3>", unsafe_allow_html=True)
-                            st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>성별: {top1['gender']}</p>", unsafe_allow_html=True)
+                            st.markdown(f"<h3 style='font-family: IBM Plex Sans KR, sans-serif; font-weight: 700;'>{clean_name(top1.get('name', 'N/A'))} ({clean_name(top1.get('brand', 'N/A'))})</h3>", unsafe_allow_html=True)
+                            st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>성별: {top1.get('gender', 'N/A')}</p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>계절: {top1.get('season', 'N/A')}</p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><a href='{top1['url']}'>Fragrantica로 이동</a></p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>Top Notes:</b> {notes_to_hashtags(top1.get('top_notes', []))}</p>", unsafe_allow_html=True)
@@ -406,7 +406,7 @@ def render_main():
                         cols = st.columns(3)
                         for col, rec in zip(cols, others):
                             with col:
-                                st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>{clean_name(rec['name'])}</b> ({clean_name(rec['brand'])})</p>", unsafe_allow_html=True)
+                                st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>{clean_name(rec.get('name', 'N/A'))}</b> ({clean_name(rec.get('brand', 'N/A'))})</p>", unsafe_allow_html=True)
                                 if rec.get("image_url"):
                                     st.image(rec["image_url"], width=150)
                         
@@ -457,8 +457,8 @@ def render_main():
                             """, unsafe_allow_html=True)
 
                         with col_info:
-                            st.markdown(f"<h3 style='font-family: IBM Plex Sans KR, sans-serif; font-weight: 700;'>{clean_name(top1['name'])} ({clean_name(top1['brand'])})</h3>", unsafe_allow_html=True)
-                            st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>성별: {top1['gender']}</p>", unsafe_allow_html=True)
+                            st.markdown(f"<h3 style='font-family: IBM Plex Sans KR, sans-serif; font-weight: 700;'>{clean_name(top1.get('name', 'N/A'))} ({clean_name(top1.get('brand', 'N/A'))})</h3>", unsafe_allow_html=True)
+                            st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>성별: {top1.get('gender', 'N/A')}</p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'>계절: {top1.get('season', 'N/A')}</p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><a href='{top1['url']}'>Fragrantica로 이동</a></p>", unsafe_allow_html=True)
                             st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>Top Notes:</b> {notes_to_hashtags(top1.get('top_notes', []))}</p>", unsafe_allow_html=True)
@@ -471,7 +471,7 @@ def render_main():
                         cols = st.columns(2)
                         for col, rec in zip(cols, others):
                             with col:
-                                st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>{clean_name(rec['name'])}</b> ({clean_name(rec['brand'])})</p>", unsafe_allow_html=True)
+                                st.markdown(f"<p style='font-family: IBM Plex Sans KR, sans-serif;'><b>{clean_name(rec.get('name', 'N/A'))}</b> ({clean_name(rec.get('brand', 'N/A'))})</p>", unsafe_allow_html=True)
                                 if rec.get("image_url"):
                                     st.image(rec["image_url"], width=150)
                         

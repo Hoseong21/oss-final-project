@@ -171,6 +171,8 @@ def recommend_perfumes(user_vector, gender=None, top_n=4):
 
     # 4) 정렬 후 상위 top_n 반환
     result = df_temp.sort_values("similarity", ascending=False).head(top_n)
+    if len(result) == 0:
+        raise ValueError("조건에 맞는 향수를 찾을 수 없습니다")
     return result.reset_index(drop=True)
 
 
@@ -257,6 +259,8 @@ def recommend_by_season(season, gender=None, top_n=3):
 
     # 상위 top_n 개 반환
     result = df_temp.sort_values("season_score", ascending=False).head(top_n)
+    if len(result) == 0:
+        raise ValueError("조건에 맞는 향수를 찾을 수 없습니다")
     return result.reset_index(drop=True)
 
 

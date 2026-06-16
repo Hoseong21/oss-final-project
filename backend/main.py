@@ -111,7 +111,7 @@ def login(request: LoginRequest):
     # 기존 사용자 확인
     if student_id in users:
         # 이름 일치 확인
-        if users[student_id]["name"] != name:
+        if users[student_id].get("name") != name:
             raise HTTPException(status_code=400, detail="학번과 이름이 일치하지 않습니다")
         return {
             "success": True,
