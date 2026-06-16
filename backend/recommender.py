@@ -29,10 +29,10 @@ FEATURE_MATRIX = np.vstack(df_notes["feature_vector"].values)
 
 # 2. 노트 정규화
 def normalize_note_name(note):
-    """입력 노트를 소문자 + strip으로 정규화"""
+    """입력 노트를 strip으로 정규화"""
     if not isinstance(note, str):
         return None
-    return note.strip().lower()
+    return note.strip()
 
 
 # 3. 계절 인덱스 매핑
@@ -60,7 +60,7 @@ def build_user_vector_v2(
     mid_note=None,
     base_note=None,
     season=None,
-    w_top=1.0,
+    w_top=1.2,
     w_mid=0.8,
     w_base=0.6,
     w_notes=0.7,
@@ -68,7 +68,7 @@ def build_user_vector_v2(
 ):
     """
     사용자 벡터 생성
-    파라미터: top_note, mid_note, base_note, season, w_top=1.0, w_mid=0.8, w_base=0.6, w_notes=0.7, w_season=0.3
+    파라미터: top_note, mid_note, base_note, season, w_top=1.2, w_mid=0.8, w_base=0.6, w_notes=0.7, w_season=0.3
     벡터 크기: len(NOTE_COLUMNS) + 4
     """
     vec = np.zeros(len(NOTE_COLUMNS) + 4)
@@ -105,16 +105,17 @@ def build_user_vector_v2(
 # 6. NOTE GROUPS
 NOTE_GROUPS = {
     "Citrus": [
-        "bergamot", "lemon", "orange", "mandarin",
+        "bergamot", "lemon", "orange", "mandarin orange",
         "grapefruit", "yuzu", "lime", "neroli", "petitgrain"
     ],
     "Floral": [
-        "jasmine", "rose", "peony", "violet",
-        "orange blossom", "lily of the valley", "magnolia",
-        "iris", "tuberose", "gardenia"
+        "jasmine", "rose", "peony", "violet", "geranium",
+        "orange blossom", "lily-of-the-valley", "magnolia",
+        "iris", "tuberose", "gardenia", "ylang-ylang",
+        "lavender", "heliotrope"
     ],
     "Fruity": [
-        "apple", "pear", "peach", "blackcurrant",
+        "apple", "pear", "peach", "black currant",
         "raspberry", "strawberry", "pineapple"
     ],
     "Green": [
@@ -123,24 +124,26 @@ NOTE_GROUPS = {
     ],
     "Woody": [
         "cedar", "sandalwood", "vetiver", "patchouli",
-        "guaiac", "oakmoss", "cashmere", "cypress"
+        "guaiac", "oakmoss", "cashmere", "cypress",
+        "agarwood (oud)"
     ],
     "Spicy": [
-        "pink pepper", "black pepper", "cardamom",
-        "cinnamon", "clove", "nutmeg"
+        "pink pepper", "black pepper", "pepper", "cardamom",
+        "cinnamon", "clove", "nutmeg", "ginger", "saffron"
     ],
     "Sweet": [
         "vanilla", "tonka bean", "caramel", "honey",
         "praline", "chocolate", "coconut", "cotton candy"
     ],
     "Musk": ["musk", "white musk", "ambrette"],
-    "Amber": ["amber", "benzoin", "labdanum", "frankincense", "myrrh", "olibanum"],
+    "Amber": ["amber", "benzoin", "labdanum", "frankincense", "myrrh", "olibanum", "ambergris", "incense"],
+    "Leather": ["leather"],
     "Fresh": ["sea salt", "aquatic notes", "aldehydes", "ozonic"]
 }
 
 TOP_NOTE_GROUPS = ["Citrus", "Fruity", "Green", "Floral", "Spicy", "Fresh"]
-MID_NOTE_GROUPS = ["Floral", "Woody", "Spicy", "Green", "Fruity"]
-BASE_NOTE_GROUPS = ["Woody", "Musk", "Amber", "Sweet"]
+MID_NOTE_GROUPS = ["Floral", "Woody", "Spicy", "Green", "Fruity", "Leather"]
+BASE_NOTE_GROUPS = ["Woody", "Musk", "Amber", "Sweet", "Leather"]
 
 
 def get_notes_by_group(group_name):
@@ -171,6 +174,15 @@ def recommend_perfumes(user_vector, gender=None, top_n=4):
     return result.reset_index(drop=True)
 
 
+SEASON_LABELS = ["Spring", "Summer", "Autumn", "Winter"]
+
+def _get_all_seasons(season_scaled):
+    if not isinstance(season_scaled, (list, np.ndarray)) or len(season_scaled) == 0:
+        return "N/A"
+    threshold = 1.0 / len(season_scaled)
+    seasons = [SEASON_LABELS[i] for i, v in enumerate(season_scaled) if v >= threshold]
+    return " / ".join(seasons) if seasons else "N/A"
+
 # 8. 추천 결과 포맷팅
 def format_recommendation_output(result_df):
     """
@@ -188,7 +200,7 @@ def format_recommendation_output(result_df):
         "brand": clean_name_local(top1["Brand"]),
         "url": top1["url"],
         "gender": top1["Gender"],
-        "season": top1.get("Season_label", None),
+        "season": _get_all_seasons(top1.get("Season_scaled", [])),
         "top_notes": top1["Top"],
         "middle_notes": top1["Middle"],
         "base_notes": top1["Base"],
@@ -264,7 +276,7 @@ def format_season_recommendation(df):
         "name": clean_name_local(top1["Perfume"]),
         "brand": clean_name_local(top1["Brand"]),
         "gender": top1["Gender"],
-        "season": top1.get("Season_label", None),
+        "season": _get_all_seasons(top1.get("Season_scaled", [])),
         "url": top1["url"],
         "score": float(top1["season_score"]),
         "top_notes": top1["Top"],

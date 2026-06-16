@@ -103,24 +103,26 @@ NOTE_GROUP_DESC = {
     "Musk": "따뜻하고 관능적인 느낌의 향",
     "Amber": "따뜻하고 달콤한 파우더리한 느낌의 향",
     "Sweet": "달달한 디저트 느낌의 향",
+    "Leather": "가죽 특유의 스모키하고 강렬한 향",
 }
 
 NOTE_GROUPS = {
-    "Citrus": ["bergamot", "lemon", "orange", "mandarin", "grapefruit", "yuzu", "lime", "neroli", "petitgrain"],
-    "Floral": ["jasmine", "rose", "peony", "violet", "orange blossom", "lily of the valley", "magnolia", "iris", "tuberose", "gardenia"],
-    "Fruity": ["apple", "pear", "peach", "blackcurrant", "raspberry", "strawberry", "pineapple"],
+    "Citrus": ["bergamot", "lemon", "orange", "mandarin orange", "grapefruit", "yuzu", "lime", "neroli", "petitgrain"],
+    "Floral": ["jasmine", "rose", "peony", "violet", "geranium", "orange blossom", "lily-of-the-valley", "magnolia", "iris", "tuberose", "gardenia", "ylang-ylang", "lavender", "heliotrope"],
+    "Fruity": ["apple", "pear", "peach", "black currant", "raspberry", "strawberry", "pineapple"],
     "Green": ["green tea", "mint", "basil", "sage", "rosemary", "mate", "fig"],
-    "Woody": ["cedar", "sandalwood", "vetiver", "patchouli", "guaiac", "oakmoss", "cashmere", "cypress"],
-    "Spicy": ["pink pepper", "black pepper", "cardamom", "cinnamon", "clove", "nutmeg"],
+    "Woody": ["cedar", "sandalwood", "vetiver", "patchouli", "guaiac", "oakmoss", "cashmere", "cypress", "agarwood (oud)"],
+    "Spicy": ["pink pepper", "black pepper", "pepper", "cardamom", "cinnamon", "clove", "nutmeg", "ginger", "saffron"],
     "Sweet": ["vanilla", "tonka bean", "caramel", "honey", "praline", "chocolate", "coconut", "cotton candy"],
     "Musk": ["musk", "white musk", "ambrette"],
-    "Amber": ["amber", "benzoin", "labdanum", "frankincense", "myrrh", "olibanum"],
+    "Amber": ["amber", "benzoin", "labdanum", "frankincense", "myrrh", "olibanum", "ambergris", "incense"],
+    "Leather": ["leather"],
     "Fresh": ["sea salt", "aquatic notes", "aldehydes", "ozonic"]
 }
 
 TOP_NOTE_GROUPS = ["Citrus", "Fruity", "Green", "Floral", "Spicy", "Fresh"]
-MID_NOTE_GROUPS = ["Floral", "Woody", "Spicy", "Green", "Fruity"]
-BASE_NOTE_GROUPS = ["Woody", "Musk", "Amber", "Sweet"]
+MID_NOTE_GROUPS = ["Floral", "Woody", "Spicy", "Green", "Fruity", "Leather"]
+BASE_NOTE_GROUPS = ["Woody", "Musk", "Amber", "Sweet", "Leather"]
 
 
 # 2. 유틸 함수
@@ -250,13 +252,16 @@ def render_history():
     if not result:
         return
     
-    history = list(reversed(result.get("history", [])))
-    
+    original_history = result.get("history", [])
+    total = len(original_history)
+    history = list(reversed(original_history))
+
     if not history:
         st.info("추천 기록이 없습니다")
         return
-    
-    for idx, rec in enumerate(history):
+
+    for display_idx, rec in enumerate(history):
+        idx = total - 1 - display_idx
         rec_type = rec.get("rec_type", "unknown")
         timestamp = rec.get("timestamp", "")
         result_data = rec.get("result", {})
@@ -288,7 +293,7 @@ def render_history():
         
                 col1, col2 = st.columns([3, 1])
                 with col2:
-                    if st.button("삭제", key=f"del_history_{idx}_{rec.get('timestamp', idx)}"):
+                    if st.button("삭제", key=f"del_history_{display_idx}_{rec.get('timestamp', display_idx)}"):
                         del_result = call_api("DELETE", f"/history/{st.session_state['student_id']}/{idx}")
                         if del_result and del_result.get("success"):
                             st.success("삭제되었습니다")
@@ -440,15 +445,15 @@ def render_main():
                     
                         st.markdown("<h3 style='font-family: IBM Plex Sans KR, sans-serif; font-weight: 700;'>TOP 1 추천 향수</h3>", unsafe_allow_html=True)
                         st.markdown("")
-                        col_img, col_divider, col_info = st.columns([2, 0.15, 3])
+                        col_img, col_divider, col_info = st.columns([2, 0.15, 4.3])
 
                         with col_img:
                             if top1.get("image_url"):
-                                st.image(top1["image_url"], width=200)
+                                st.image(top1["image_url"], width=250)
 
                         with col_divider:
                             st.markdown("""
-                            <div style="border-left: 1px solid #C9B99A; height: 100%; min-height: 300px;"></div>
+                            <div style="border-left: 1px solid #C9B99A; height: 100%; min-height: 330px;"></div>
                             """, unsafe_allow_html=True)
 
                         with col_info:

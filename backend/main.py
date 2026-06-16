@@ -150,9 +150,9 @@ def recommend(request: RecommendRequest):
     try:
         # user_vector 생성
         user_vector = build_user_vector_v2(
-            top_note=request.top_note,
-            mid_note=request.mid_note,
-            base_note=request.base_note,
+            top_note=request.top_note.title() if request.top_note else None,
+            mid_note=request.mid_note.title() if request.mid_note else None,
+            base_note=request.base_note.title() if request.base_note else None,
             season=request.season,
         )
         
